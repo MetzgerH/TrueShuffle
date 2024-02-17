@@ -3,6 +3,6 @@
 		<title>TrueShuffle</title> 
 	</head> 
 	<body> 
-		<h1>Login to spotify (need to implement button)</h1> 
+		<h1>Choose playlist</h1> 
 	</body> 
 </html>
